@@ -1,7 +1,9 @@
 House Price Prediction
+
 This repository contains a project focused on predicting house prices using machine learning algorithms. The project is built in Python using popular data science libraries like pandas, scikit-learn, and matplotlib. By leveraging historical housing data, this model predicts the future prices of homes, aiding in better decision-making for buyers, sellers, and real estate professionals.
 
 Features
+
 Data Preprocessing: The dataset is cleaned and prepared using techniques such as handling missing values, encoding categorical variables, and feature scaling.
 Exploratory Data Analysis (EDA): Visualizations and statistics are used to understand the relationship between various features and housing prices.
 Modeling: Several machine learning models are trained, tested, and compared, including:
