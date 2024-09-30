@@ -26,7 +26,7 @@ To get started with this project, clone the repository and install the required 
 
 bash
 Copy code
-git clone https://github.com/yourusername/house-price-prediction.git
+git clone https://github.com/BalajiV21/Predicting-House-Prices
 cd house-price-prediction
 pip install -r requirements.txt
 
